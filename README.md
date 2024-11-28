@@ -8,4 +8,4 @@ I'm a full stack developer...
 and Java Maniac Dev.
 ## Documentation
 
-[Video Pembuatan](https://linktodocumentation)
+[Video Pembuatan](https://drive.google.com/file/d/1kTuvB_qzHr4tm4Uvn0-rUdfxXH2MFBqV/view?usp=sharing)
